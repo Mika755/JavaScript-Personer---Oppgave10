@@ -1,9 +1,8 @@
 <div align="center">
   <h1 align="center">Netflix Clone</h1>
     <h3>
-      <a href="#">Lenke til prosjektet </a>
-      mika755.github.io/JS10-Personer/
-    </h3>
+      <a href="mika755.github.io/JS10-Personer/">Lenke til prosjektet </a>
+      </h3>
 </div>
 
 ## Innholdsfortegnelse
