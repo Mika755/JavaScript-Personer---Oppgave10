@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Netflix Clone</h1>
+  <h1 align="center">JavaScript opppgave</h1>
     <h3>
       <a href="mika755.github.io/JS10-Personer/">Lenke til prosjektet </a>
       </h3>
@@ -44,10 +44,9 @@ Krav til siden:
 
 ## Funksjoner
 
-- Helsides bakgrunnsbilde med Netflix-plakater
-- Sentral boks med registreringsskjema
-- Ulike typer skjema-elementer:
-- Tydelig **Submit-knapp**
+- Bakgrunnsbilde
+- Søkefelt
+- Visnings felt
 
 ## Hvordan bruke prosjektet
 
